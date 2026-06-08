@@ -2,7 +2,7 @@
 
 Bu depo; bilgisayarlı görü (Computer Vision) ve doğal dil işleme (NLP) alanlarındaki farklı problemlerin çözümü için özelleştirilmiş, gelişmiş derin öğrenme mimarilerini barındıran kapsamlı bir final projesidir. Proje kapsamında üç farklı problem türü ele alınmış, özgün mimari tasarımlar kurgulanmış ve performans analizleri gerçekleştirilmiştir.
 
-## 🚀 Proje Kapsamı ve Model Mimarileri
+## Proje Kapsamı ve Model Mimarileri
 
 Depo içerisinde yer alan üç ana çalışma ve kullanılan teknolojiler şu şekildedir:
 
